@@ -3,6 +3,8 @@
 - Class Date: Jun 16-17, 2021
 - Facilitator: @rwnfoo
 
+Hello! Nice to meet you!
+
 ## Talk to Us!!
 
 If you have a question, or need assistance during class, **please create an issue and mention @rwnfoo**.
